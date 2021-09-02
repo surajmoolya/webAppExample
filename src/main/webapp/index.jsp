@@ -26,7 +26,7 @@
 </head>
 <body>
   <div align="center">
-    <h1>Congratulations!</h1>
+    <h1>Welcome to Jenkins!</h1>
     <h2>This Site is running in TomCat Server.</h2>
     <p>By Group 5 D15B.</p>
   </div>
